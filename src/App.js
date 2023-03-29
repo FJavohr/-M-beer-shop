@@ -1,4 +1,5 @@
 import React from 'react'
+import { requests } from './configs'
 
 export const App = () => {
   return (
